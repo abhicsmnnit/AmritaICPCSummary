@@ -1,0 +1,32 @@
+Lecture 1
+?? www.spoj.pl/problems/CTRICK
+?? www.spoj.pl/problems/EXPEDI
+
+Lecture 2
+?? Given an array A of n numbers, find the pair of numbers (a, b) such that a and b both belong to A and (a XOR b) is maximum.
+!!
+1) There are total n^2 pairs. So, you can find n^2 XORs. Then find the maximum of those.
+2) Make a Trie of bit representation of all the n numbers. You'll have a binary trie with height 32 (Assuming we have all 32 bit numbers).
+The trie should be such that the most significant bit is at the top, and the least significant, obviously, at the bottom.
+We know (1 XOR 1 = 0), (0 XOR 0 = 0), and (1 XOR 0 = 1)
+So, starting from the most significant bit of a number, we traverse to the opposite bit of the trie and see if we can find a number.
+
+Lecture 3
+?? www.spoj.pl/problems/CORNET
+
+Lecture 5
+!! www.spoj.pl/problems/CTRICK
+?? www.spoj.pl/problems/FREQUENT
+
+Lecture 7
+?? TopCoder SRM 424 ProductOfPrices
+
+Lecture 8
+?? www.spoj.pl/problems/MATSUM
+?? www.spoj.pl/problems/INVCNT
+
+Lecture 12
+?? www.spoj.pl/problems/GSS1
+?? www.spoj.pl/problems/GANNHAT
+?? www.spoj.pl/problems/INCSEQ
+?? www.spoj.pl/problems/PRO

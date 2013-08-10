@@ -1,0 +1,43 @@
+Lecture 1
+. Introduction
+. Heaps (Anshuman Singh)
+. Tries (Gaurav Agarval)
+
+Lecture 2
+. Tries Contd... (Gaurav Agarval)
+. Application of Tries (Gaurav Agarval)
+. Minimum Spanning Trees (Gaurav Agarval) (Not so clear, as video starts in between)
+
+Lecture 3
+. Minimum Spanning Trees Contd... (Gaurav Agarval)
+. Union-Find Algorithm (Gaurav Agarval)
+
+Lecture 4
+. Union-Find Algorithm Contd... (Gaurav Agarval)
+. Range-Minimum Query (RMQ) (Gaurav Agarval)
+. Segment Trees or Interval Trees (Gaurav Agarval)
+
+Lecture 5
+. Segment Trees or Interval Trees Contd... (Gaurav Agarval)
+
+Lecture 6
+. Binary Indexed Trees or Fenwik Trees (Akhil Ravidas)
+
+Lecture 7
+. Binary Indexed Trees or Fenwik Trees Contd... (Akhil Ravidas)
+
+Lecture 8
+. Binary Indexed Trees or Fenwik Trees Contd... (Akhil Ravidas)
+. 2D Binary Indexed Trees or Fenwik Trees (Akhil Ravidas)
+. Range-Minimum Query (RMQ) (Anshuman Singh)
+
+Lecture 9
+. Range-Minimum Query (RMQ) Contd... (Anshuman Singh)
+. Range-Minimum Query (RMQ) Applications (Anshuman Singh) -- Reducing "Least Common Ancestor" to RMQ
+. STL (Venkatesh Basker)
+
+Lecture 10
+. STL Contd... (Venkatesh Basker)
+
+Lecture 11
+. STL Contd... (Venkatesh Basker)

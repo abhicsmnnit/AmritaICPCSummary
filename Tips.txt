@@ -1,0 +1,6 @@
+Lecture 1
+Online judges can perform 10^8 operations per second.
+So, if the input size is 20000, and you have O(n^2) algo, then it'll roughly take 20000^2 = 4X10^8 operations, i.e. 4 seconds.
+If the allowed time limit is 1 or 2 seconds, then your algo will not work.
+
+Heaps in C++ -> priority_queue
