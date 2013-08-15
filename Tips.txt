@@ -4,3 +4,15 @@ So, if the input size is 20000, and you have O(n^2) algo, then it'll roughly tak
 If the allowed time limit is 1 or 2 seconds, then your algo will not work.
 
 Heaps in C++ -> priority_queue
+
+Lecture 13
+. Binary Search: First 18 implementations of Binary Search in UNIX production code were buggy. (To be removed later on when I find a proper place to write this info).
+. Top Coder Tutorial on Binary Search.
+. Finding mid in Binary Search:
+mid = (low + high) / 2 ==> BUGGY (If low and high are large enough to add up out of the Integer Range, we'll get an overflow).
+mid = low + (high - low) / 2 ==> CORRECT
+. When you implement a Binary Search Algo, always make sure it runs for {0, 1} (or ANY two consecutive elements in your search space)
+This is the most probable case for ending in an infinite loop.
+. Make sure in every iteration, the search space reduces by ATLEAST 1.
+The main reason you go into infinite loop is that the search space does not decrease.
+. **Whenever you face a problem of maximizing the minimum, or minimizing the maximum, its high chances that the problem will be solved using Binary Search**

@@ -1,0 +1,15 @@
+ Topic 2: NumberTheory, BasicGeometry, And Search Techniques
+-------------------------------------------------------------
+
+Lecture 13
+?? www.spoj.pl/problems/AGGRCOW
+!! www.spoj.pl/problems/AGGRCOW
+?? www.spoj.pl/problems/NOTATRI
+?? www.spoj.pl/problems/SUBS
+
+Lecture 15
+?? Given an array of x coordinates, find x which minimizes
+SUM(i=1 to n) |x[i] - x|
+!!
+
+?? TopCoder SRM 426 CatchTheMice

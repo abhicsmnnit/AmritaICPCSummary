@@ -1,0 +1,8 @@
+ Topic 2: NumberTheory, BasicGeometry, And Search Techniques
+-------------------------------------------------------------
+
+Lecture 13
+. Search Techniques Introduction (Akhil Ravidas)
+. Binary Search (Akhil Ravidas)
+. Discrete Binary Search (Akhil Ravidas) (Used in programming contests)
+. Ternary Search and Unimodal Functions (Akhil Ravidas)
