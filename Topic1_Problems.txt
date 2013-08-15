@@ -1,3 +1,6 @@
+ Topic 1: DataStructures, STL, And Miscellaneous Coding Techniques
+-------------------------------------------------------------------
+
 Lecture 1
 ?? www.spoj.pl/problems/CTRICK
 ?? www.spoj.pl/problems/EXPEDI
