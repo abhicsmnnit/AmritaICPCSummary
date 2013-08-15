@@ -10,6 +10,27 @@ Lecture 13
 Lecture 15
 ?? Given an array of x coordinates, find x which minimizes
 SUM(i=1 to n) |x[i] - x|
-!!
+This can be formulated in the form of a word problem in the following way:
+You have N offices of your company. You want to build the Headquarter (H) in such a way that the total distance of each office from the Headquarter is minimized.
+                    ---1----2---3--4--------5----H---6------------------N--------
+Total distance of each office from Headquarter = 1H + 2H + 3H + ... + NH
+i.e. SUM(i=1 to N) |X[i] - X[H]|
+
+!! The given function will be of the form y = |x - 1| + |x - 2| or y = |x - 1| + |x - 2| + |x - 3|
+Try to make graphs for these and you will see that these are Unimodal, and therefore Ternary Search is Applicable.
+The Perfect location of the Headquarter will be where the function is minimum, i.e. at the Minima of y (which can be found by using Ternary Search).
+
+However, there is an easier solution for this problem.
+For even number of points (i.e. when N is even), the function will be minimum over a RANGE.
+For odd number of points, the function will have a minimum point.
+The location of the Headquarter is actually the MEDIAN of the points given.
+When you'll make the graphs of the above functions, you'll see this.
 
 ?? TopCoder SRM 426 CatchTheMice
+!! TopCoder SRM 426 CatchTheMice
+
+Lecture 17
+?? www.spoj.pl/problems/MAXISUM
+?? PKU Online Judge 3318
+Given 3 NXN matrices A, B, and C. Check if C = A * B
+!! PKU Online Judge 3318
