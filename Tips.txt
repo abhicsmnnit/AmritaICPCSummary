@@ -23,3 +23,8 @@ Lecture 22
 . (a + b) % c = (a % c + b % c) % c
 . (a - b) % c = (a % c - b % c) % c
 . (a * b) % c = (a % c * b % c) % c
+
+Lecture 27
+. Formula for finding power of p in n!:
+  [n / p] + [n / p^2] + [n / p^3] + ...
+  Here [] is the Greatest Integer Function.

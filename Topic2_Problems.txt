@@ -63,3 +63,4 @@ Lecture 26
 Lecture 27
 Hint: www.spoj.pl/problems/DIVSUM2
 ?? Calculate (nCr % p) when p <= 10000, 0<=r<=n<=1e9; p is Prime.
+!! Calculate (nCr % p) when p <= 10000, 0<=r<=n<=1e9; p is Prime.
