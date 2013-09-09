@@ -16,3 +16,10 @@ This is the most probable case for ending in an infinite loop.
 . Make sure in every iteration, the search space reduces by ATLEAST 1.
 The main reason you go into infinite loop is that the search space does not decrease.
 . **Whenever you face a problem of maximizing the minimum, or minimizing the maximum, its high chances that the problem will be solved using Binary Search**
+
+Lecture 22
+. a = b (mod n) [Read as a congruent b modulo n. The sign is actually a triple equal]
+  => a % n = b % n
+. (a + b) % c = (a % c + b % c) % c
+. (a - b) % c = (a % c - b % c) % c
+. (a * b) % c = (a % c * b % c) % c

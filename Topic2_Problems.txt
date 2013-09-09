@@ -30,7 +30,36 @@ When you'll make the graphs of the above functions, you'll see this.
 !! TopCoder SRM 426 CatchTheMice
 
 Lecture 17
-?? www.spoj.pl/problems/MAXISUM
+?? www.spoj.pl/problems/MAXISET
+?? TCHS 07 Semifinals - Knapsack Problem
+?? SRM 307 - SplitAndMergeGame
 ?? PKU Online Judge 3318
 Given 3 NXN matrices A, B, and C. Check if C = A * B
 !! PKU Online Judge 3318
+
+Lecture 22
+?? Sum of divisors for every number in range [2, 1e6]
+?? Sum of divisors for every number in range [m, n] such that n - m + 1 <= 1e6 and m < n < 1e9
+
+Lecture 23
+!! Sum of divisors for every number in range [2, 1e6]
+?? www.spoj.pl/problems/PRIME1
+?? www.spoj.pl/problems/ODDDIV
+?? www.spoj.pl/problems/PPATH
+
+Lecture 24
+?? Given N, find the number of irreducible fractions with denominator less than N and numerator less than or equal to denominator.
+!! Given N, find the number of irreducible fractions with denominator less than N and numerator less than or equal to denominator.
+?? www.spoj.pl/problems/DEPOSIT
+?? Let X = Product of all primes less than or equal to 43. Find the sum of all x < X, such that (x * x * x) % X = 1.
+
+Lecture 25
+!! Let X = Product of all primes less than or equal to 43. Find the sum of all x < X, such that (x * x * x) % X = 1.
+
+Lecture 26
+!! Let X = Product of all primes less than or equal to 43. Find the sum of all x < X, such that (x * x * x) % X = 1.
+?? www.spoj.pl/problems/DIVSUM2
+
+Lecture 27
+Hint: www.spoj.pl/problems/DIVSUM2
+?? Calculate (nCr % p) when p <= 10000, 0<=r<=n<=1e9; p is Prime.

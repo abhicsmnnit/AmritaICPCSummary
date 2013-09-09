@@ -1,5 +1,5 @@
- Topic 2: NumberTheory, BasicGeometry, And Search Techniques
--------------------------------------------------------------
+ Topic 2: Number Theory, Basic Geometry, And Search Techniques
+---------------------------------------------------------------
 
 Lecture 13
 . Search Techniques Introduction (Akhil Ravidas)
@@ -20,4 +20,53 @@ Lecture 16
 
 Lecture 17
 . Meet in the Middle Contd... (Akhil Ravidas)
-. Randomized Algorithms
+. Randomized Algorithms (Akhil Ravidas)
+
+Lecture 18
+. Vector Algebra - Addition, Dot Product (Ajay Somani)
+. Applications of Vector Algebra (Ajay Somani)
+
+Lecture 19
+. Applications of Vector Algebra Contd... (Ajay Somani)
+
+Lecture 20
+. Applications of Vector Algebra Contd... (Ajay Somani)
+. Pick's Theorem (Ajay Somani)
+. 3-D Geometry (Ajay Somani)
+
+Lecture 21
+. Some Random Geometry Applications (Ajay Somani)
+
+Lecture 22
+. Some 2-D Geometry (Anshuman Singh)
+. Comparison of floating-point numbers (Anshuman Singh)
+. Number Theory Introduction (Anshuman Singh)
+. Modular Arithmetic (Anshuman Singh)
+. GCD by Euclid's Theorem (Anshuman Singh)
+. Extended Euclidean (Anshuman Singh)
+
+Lecture 23
+. Sieve of Eratosthenes and its complexity (Anshuman Singh)
+. Segmented Sieve (Anshuman Singh)
+
+Lecture 24
+. Fermat's Theorem (Anshuman Singh)
+. Euler-Totient Theorem (Anshuman Singh)
+. Linear Modulo Equations [Ax = B (mod C). Find X.] (Anshuman Singh)
+. Chinese Remainder Theorem (Anshuman Singh)
+
+Lecture 25
+. Chinese Remainder Theorem Contd... (Anshuman Singh)
+
+Lecture 26
+. Primality Testing (Anshuman Singh)
+. Naive O(sqrt n) Algorithm (Anshuman Singh)
+. Fermat's Theorem Test (Anshuman Singh)
+. Miller-Rabin Test (Anshuman Singh)
+. Integer Factorization (Anshuman Singh)
+
+Lecture 27
+. Wilson Theorem (Anshuman Singh)
+
+
+
