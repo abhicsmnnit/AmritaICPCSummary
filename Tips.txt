@@ -28,3 +28,6 @@ Lecture 27
 . Formula for finding power of p in n!:
   [n / p] + [n / p^2] + [n / p^3] + ...
   Here [] is the Greatest Integer Function.
+
+Lecture 30
+. To get a good feel of DP, solve TopCoder problems as they are more DP-oriented.

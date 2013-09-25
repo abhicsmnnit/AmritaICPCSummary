@@ -1,0 +1,63 @@
+ Topic 3: Advanced Graph, Backtracking, Discussion of World Finals 2009, 2010
+------------------------------------------------------------------------------
+
+Lecture 31
+?? TopCoder Marbles
+?? f(x) = SUM f(a) where there exists y such that a^y=x. Find f(1), f(2), ... , f(N).
+!! f(x) = SUM f(a) where there exists y such that a^y=x. Find f(1), f(2), ... , f(N).
+
+Lecture 32
+?? n+1 people in a circle. Everyday someone fights with an adjacent person. Only one person survives each fight. The outcomes of fight between any two persons is known. Find out if there is a sequence of fights such that person1 survives till the end (after n days obviously).
+!! n+1 people in a circle. Everyday someone fights with an adjacent person. Only one person survives each fight. The outcomes of fight between any two persons is known. Find out if there is a sequence of fights such that person1 survives till the end (after n days obviously).
+?? www.spoj.pl/problems/MUSKET
+?? Given a tree, with each node having a cost, find an independent set of the tree which has the maximum cost.
+
+Lecture 33
+!! Given a tree, with each node having a cost, find an independent set of the tree which has the maximum cost.
+?? Given N boxes, C candies and a list of N numbers r[1], r[2], ..., r[N]. Find the number of ways of distributing candies into boxes so that the number of candies in box i is a multiple of r[i].
+!! Given N boxes, C candies and a list of N numbers r[1], r[2], ..., r[N]. Find the number of ways of distributing candies into boxes so that the number of candies in box i is a multiple of r[i].
+
+Lecture 34
+?? www.spoj.pl/problems/BSHEEP
+?? www.spoj.pl/problems/MKPAIR
+?? Given n points P1, P2, ... Pn. Find the pair (Pi, Pj) such that PiPj is maximized.
+!! Given n points P1, P2, ... Pn. Find the pair (Pi, Pj) such that PiPj is maximized.
+
+Lecture 36
+?? www.spoj.pl/problems/SHAMAN
+?? Given two convex polygons. Take one point from one polygon and one from the other. Maximize this distance.
+?? www.spoj.pl/problems/DQUERY
+
+Lecture 37
+!! www.spoj.pl/problems/DQUERY (Awsomely Explained by Ajay Somani)
+
+Lecture 38
+?? Given n rectangles in a 2-D plane. Find the area of the Union of all the rectangles (i.e. if area common in 2 or more rectangles is counted only once)
+!! Given n rectangles in a 2-D plane. Find the area of the Union of all the rectangles (i.e. if area common in 2 or more rectangles is counted only once)
+?? www.spoj.pl/problems/COVER2
+
+Lecture 39
+?? TopCoder SRM 466 LotteryPyaterochka
+
+Lecture 40
+!! TopCoder SRM 466 LotteryPyaterochka
+?? TCO R4 BankLottery
+!! TCO R4 BankLottery
+
+Lecture 41
+!! TCO R4 BankLottery
+?? Given n+1 numbers in the range [1,2n], find a pair (x,y) such that x divides y
+!! Given n+1 numbers in the range [1,2n], find a pair (x,y) such that x divides y
+?? Consider all strings of length n consisting of a 0s and b 1s. What is the total number of such strings with period 1?
+!! Consider all strings of length n consisting of a 0s and b 1s. What is the total number of such strings with period 1?
+
+Lecture 42
+!! Consider all strings of length n consisting of a 0s and b 1s. What is the total number of such strings with period 1?
+?? TopCoder SRM 237 BoxUnion
+?? TopCoder SRM 444 AvoidFour
+?? www.spoj.pl/problems/NGM2
+?? A Cirle is divided into n sectors. You have k colors. You need to color the sectors of this circle such that no two adjacent sectors are colored with the same color.
+!! A Cirle is divided into n sectors. You have k colors. You need to color the sectors of this circle such that no two adjacent sectors are colored with the same color.
+
+Lecture 43
+!! A Cirle is divided into n sectors. You have k colors. You need to color the sectors of this circle such that no two adjacent sectors are colored with the same color. 

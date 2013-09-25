@@ -1,0 +1,49 @@
+ Topic 3: Advanced Graph, Backtracking, Discussion of World Finals 2009, 2010
+------------------------------------------------------------------------------
+
+Lecture 28
+. Dynamic Programming - 4 classifications (Venkatesh Basker)
+
+Lecture 29
+. Dynamic Programming - 4 classifications (Venkatesh Basker)
+
+Lecture 30
+. Approaching DP Problems (Venkatesh Basker)
+. Longest Common Substring (Venkatesh Basker)
+
+Lecture 31
+. Longest Common Substring Contd... (Venkatesh Basker)
+. Using Memoization avoiding unreachable states (Venkatesh Basker)
+. Space Optimization in DP (Venkatesh Basker)
+
+Lecture 32
+. Solving counting/optimizing arrangements (Venkatesh Basker)
+
+Lecture 34
+. Convex Hull (Ajay Somani)
+
+Lecture 35
+. Convex Hull Contd... (Ajay Somani)
+
+Lecture 36
+. Convex Hull Contd... (Ajay Somani)
+. Convex Hull Rotating Callipers (Ajay Somani)
+
+Lecture 37
+. Orthogonal Range Query Problem (Ajay Somani)
+
+Lecture 39
+. Probablity (Akhil Ravidas)
+
+Lecture 41
+. Counting (Gaurav Agarwal)
+. Pigeon Hole Principle (Gaurav Agarwal)
+. Inclusion/Exclusion Principle (Gaurav Agarwal)
+
+Lecture 42
+. Mobius Function (Gaurav Agarwal)
+. Number of De-Arrangements (Gaurav Agarwal)
+. Catalan Number (Gaurav Agarwal)
+
+Lecture 43
+. Proof for Number of De-Arrangements (Venkatesh Basker)
